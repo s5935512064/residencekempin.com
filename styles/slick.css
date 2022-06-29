@@ -1,0 +1,330 @@
+#conceptcontent .slick-dots {
+  bottom: 30px;
+  z-index: 20;
+}
+
+#conceptcontent .slick-dots li button:before {
+  font-size: 12px;
+  color: #b6a694;
+  filter: drop-shadow(0 1px 2px rgb(0 0 0 / 0.1))
+    drop-shadow(0 1px 1px rgb(0 0 0 / 0.06));
+}
+
+#conceptcontent .slick-dots li {
+  margin: 1px !important;
+}
+
+#conceptcontent .slick-next,
+.slick-prev {
+  width: 64px;
+  height: 64px;
+}
+
+#conceptcontent .slick-prev {
+  transform: translateY(-32px);
+  left: 15px;
+  z-index: 20;
+}
+
+#conceptcontent .slick-next {
+  right: 15px;
+  z-index: 20;
+}
+
+@media screen and (min-width: 1024px) {
+  #conceptcontent .slick-prev {
+    left: 300px;
+    z-index: 20;
+    visibility: visible;
+  }
+
+  #conceptcontent .slick-next {
+    right: 300px;
+    z-index: 20;
+    visibility: visible;
+  }
+}
+
+#conceptcontent .slick-next:before,
+.slick-prev:before {
+  font-size: 0px;
+  color: #b6a694;
+}
+
+#conceptcontent .slick-arrow {
+  color: #b6a694;
+}
+
+#conceptcontent .slick-next:before {
+  content: url("Component14.svg");
+}
+
+#conceptcontent .slick-prev:before {
+  content: url("Component15.svg");
+}
+
+#service2 .slick-dots {
+  bottom: 200px;
+  z-index: 20;
+}
+
+#service2 .slick-dots li button:before {
+  font-size: 12px;
+  color: #b6a694;
+  filter: drop-shadow(0 1px 2px rgb(0 0 0 / 0.1))
+    drop-shadow(0 1px 1px rgb(0 0 0 / 0.06));
+}
+
+#service2 .slick-dots li {
+  margin: 1px !important;
+}
+
+#service2 .slick-next,
+.slick-prev {
+  width: 64px;
+  height: 64px;
+}
+
+#service2 .slick-prev {
+  transform: translateY(-32px);
+  left: 15px;
+  z-index: 20;
+}
+
+#service2 .slick-next {
+  right: 15px;
+  z-index: 20;
+}
+
+#service2 .slick-next:before,
+.slick-prev:before {
+  font-size: 0px;
+  color: #b6a694;
+}
+
+#service2 .slick-arrow {
+  color: #b6a694;
+}
+
+#service2 .slick-next:before {
+  content: url("Component14.svg");
+}
+
+#service2 .slick-prev:before {
+  content: url("Component15.svg");
+}
+
+@media screen and (min-width: 1024px) {
+  #service2 .slick-prev {
+    left: 300px;
+    z-index: 20;
+    visibility: visible;
+  }
+
+  #service2 .slick-next {
+    right: 300px;
+    z-index: 20;
+    visibility: visible;
+  }
+}
+
+////////////////////////////////////
+
+#service3 .slick-dots {
+  bottom: 30px;
+  z-index: 20;
+}
+
+#service3 .slick-dots li button:before {
+  font-size: 12px;
+  color: #b6a694;
+  filter: drop-shadow(0 1px 2px rgb(0 0 0 / 0.1))
+    drop-shadow(0 1px 1px rgb(0 0 0 / 0.06));
+}
+
+#service3 .slick-dots li {
+  margin: 1px !important;
+}
+
+#service3 .slick-next,
+.slick-prev {
+  width: 64px;
+  height: 64px;
+}
+
+#service3 .slick-prev {
+  transform: translateY(-32px);
+  left: 15px;
+  z-index: 20;
+}
+
+#service3 .slick-next {
+  right: 15px;
+  z-index: 20;
+}
+
+#service3 .slick-next:before,
+.slick-prev:before {
+  font-size: 0px;
+  color: #b6a694;
+}
+
+#service3 .slick-arrow {
+  color: #b6a694;
+}
+
+#service3 .slick-next:before {
+  content: url("Component14.svg");
+}
+
+#service3 .slick-prev:before {
+  content: url("Component15.svg");
+}
+
+@media screen and (min-width: 1024px) {
+  #service3 .slick-prev {
+    left: 300px;
+    z-index: 20;
+    visibility: visible;
+  }
+
+  #service3 .slick-next {
+    right: 300px;
+    z-index: 20;
+    visibility: visible;
+  }
+}
+
+////////////////////////////////////
+
+#service4 .slick-dots {
+  bottom: 30px;
+  z-index: 20;
+}
+
+#service4 .slick-dots li button:before {
+  font-size: 12px;
+  color: #b6a694;
+  filter: drop-shadow(0 1px 2px rgb(0 0 0 / 0.1))
+    drop-shadow(0 1px 1px rgb(0 0 0 / 0.06));
+}
+
+#service4 .slick-dots li {
+  margin: 1px !important;
+}
+
+#service4 .slick-next,
+.slick-prev {
+  width: 64px;
+  height: 64px;
+}
+
+#service4 .slick-prev {
+  transform: translateY(-32px);
+  left: 15px;
+  z-index: 20;
+}
+
+#service4 .slick-next {
+  right: 15px;
+  z-index: 20;
+}
+
+#service4 .slick-next:before,
+.slick-prev:before {
+  font-size: 0px;
+  color: #b6a694;
+}
+
+#service4 .slick-arrow {
+  color: #b6a694;
+}
+
+#service4 .slick-next:before {
+  content: url("Component14.svg");
+}
+
+#service4 .slick-prev:before {
+  content: url("Component15.svg");
+}
+
+@media screen and (min-width: 1024px) {
+  #service4 .slick-prev {
+    left: 300px;
+    z-index: 20;
+    visibility: visible;
+  }
+
+  #service4 .slick-next {
+    right: 300px;
+    z-index: 20;
+    visibility: visible;
+  }
+}
+
+////////////////////////////////////
+
+#service5 .slick-dots {
+  bottom: 30px;
+  z-index: 20;
+}
+
+#service5 .slick-dots li button:before {
+  font-size: 12px;
+  color: #b6a694;
+  filter: drop-shadow(0 1px 2px rgb(0 0 0 / 0.1))
+    drop-shadow(0 1px 1px rgb(0 0 0 / 0.06));
+}
+
+#service5 .slick-dots li {
+  margin: 1px !important;
+}
+
+#service5 .slick-next,
+.slick-prev {
+  width: 64px;
+  height: 64px;
+}
+
+#service5 .slick-prev {
+  transform: translateY(-32px);
+  left: 15px;
+  z-index: 20;
+}
+
+#service5 .slick-next {
+  right: 15px;
+  z-index: 20;
+}
+
+#service5 .slick-next:before,
+.slick-prev:before {
+  font-size: 0px;
+  color: #b6a694;
+}
+
+#service5 .slick-arrow {
+  color: #b6a694;
+}
+
+#service5 .slick-next:before {
+  content: url("Component14.svg");
+}
+
+#service5 .slick-prev:before {
+  content: url("Component15.svg");
+}
+
+@media screen and (min-width: 1024px) {
+  #service5 .slick-prev {
+    left: 300px;
+    z-index: 20;
+    visibility: visible;
+  }
+
+  #service5 .slick-next {
+    right: 300px;
+    z-index: 20;
+    visibility: visible;
+  }
+}
